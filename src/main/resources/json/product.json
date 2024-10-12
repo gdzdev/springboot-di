@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "PlayStation 5",
+        "price": 500
+    },
+    {
+        "id": 2,
+        "name": "Xbox 360",
+        "price": 300
+    },
+    {
+        "id": 3,
+        "name": "Iphone 13 proMax",
+        "price": 787
+    }
+]
