@@ -8,6 +8,11 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class HomeController {
 
+    /**
+     * Maneja las solicitudes HTTP GET a las rutas "", "/", y "home".
+     *
+     * @return Mapa que contiene un mensaje de bienvenida.
+     */
     @GetMapping({ "", "/", "home" })
     public Map<String, Object> home() {
         Map<String, Object> response = new HashMap<>();
