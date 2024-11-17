@@ -18,6 +18,6 @@ El proyecto incluye ejemplos prácticos de cómo usar **DI en Spring Boot**:
 
 - **Controladores REST** que demuestran la inyección de dependencias en los servicios.
 - **Servicios** que gestionan la lógica de negocio utilizando dependencias inyectadas.
-- **Repositorios** para la gestión de datos.
+- **Repositorios** para la gestión de datos...
 
 📂 **Explora** la estructura del proyecto y los ejemplos de DI en servicios, repositorios y controladores.
