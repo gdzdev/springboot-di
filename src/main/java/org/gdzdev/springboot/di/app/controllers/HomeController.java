@@ -10,7 +10,6 @@ public class HomeController {
 
     /**
      * Maneja las solicitudes HTTP GET a las rutas "", "/", y "home".
-     *
      * @return Mapa que contiene un mensaje de bienvenida.
      */
     @GetMapping({ "", "/", "home" })
